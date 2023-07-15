@@ -42,5 +42,6 @@ img {
 }
 
 .text {
-  width: 200px;
+  max-width: 200px;
+  text-align: center;
 }
