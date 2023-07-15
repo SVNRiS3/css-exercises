@@ -29,8 +29,8 @@ img {
 .container {
   display: flex;
   justify-content: center;
-  gap: 48px;
-  padding: 16px;
+  gap: 52px;
+  padding: 32px;
 }
 
 .item {
