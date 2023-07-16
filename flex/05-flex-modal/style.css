@@ -75,14 +75,11 @@ button.cancel {
   padding: 16px;
 }
 
-.header-close {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.header {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 1.2rem;
 }
 
